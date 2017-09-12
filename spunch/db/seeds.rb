@@ -6,13 +6,42 @@
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
 Search.create([
-  { body: 'The frontend (Vanilla JS) and backend (Rails API) will reside in two separate repos'},
-  { body: 'Install and configure Postgresql <a target="_blank" href="https://postgresapp.com/">Postgresapp</a>.' },
-  { body: 'Remember to use "--database=postgresql" when generating your Rails application to use Postgresql vs SqlLite.' },
-  { body: 'Create your Rails application as an <a target="_blank" href="http://guides.rubyonrails.org/api_app.html">API</a>.' },
-  { body: 'Add support for <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/HTTP/Access_control_CORS">cross-origin resource sharing</a>, using <a target="_blank" href=" https://github.com/cyu/rack-cors">rack-cors</a>. See this <a target="_blank" href="https://github.com/learn-co-curriculum/js-project-week-setup/commit/8272dbfcde33503adbb22bb0dbc731233527fad6">commit</a> as a reference.' },
-  { body: 'Design your data model and define the structure of your JSON data.' },
-  { body: 'Remember to namespace your <a target="_blank" href="http://guides.rubyonrails.org/routing.html#controller-namespaces-and-routing">routes and controllers</a>.' },
-  { body: 'Learn <a href="https://chriskottom.com/blog/2017/04/versioning-a-rails-api"/>why</a> version an API'},
-  { body: 'When lost take a walk, then bifriend <a target="_blank" href="https://developer.mozilla.org/en-US/">MDN</a> and <a target="_blank" href="http://api.rubyonrails.org/">api.rubyonrails.org</a>.' }
+  { body: {"businesses": [
+        {
+            "id": "elite-event-yelps-pizza-party-at-your-house-hayward",
+            "name": "Elite Event: Yelp's Pizza Party -- At Your House!",
+            "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/jQx6O6QTtmoKtHMwTPLx7w/o.jpg",
+            "is_closed": false,
+            "url": "https://www.yelp.com/biz/elite-event-yelps-pizza-party-at-your-house-hayward?adjust_creative=gfQqQYI5_hCAGEHlHXIz2Q&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=gfQqQYI5_hCAGEHlHXIz2Q",
+            "review_count": 55,
+            "categories": [
+                {
+                    "alias": "yelpevents",
+                    "title": "Yelp Events"
+                }
+            ],
+            "rating": 5,
+            "coordinates": {
+                "latitude": 37.66416,
+                "longitude": -122.07654
+            },
+            "transactions": [],
+            "location": {
+                "address1": "24456 Mission Blvd",
+                "address2": nil,
+                "address3": "",
+                "city": "Hayward",
+                "zip_code": "94544",
+                "country": "US",
+                "state": "CA",
+                "display_address": [
+                    "24456 Mission Blvd",
+                    "Hayward, CA 94544"
+                ]
+            },
+            "phone": "+15108865100",
+            "display_phone": "(510) 886-5100",
+            "distance": 1854.3882472419998
+        }
+    ]}}
   ])
