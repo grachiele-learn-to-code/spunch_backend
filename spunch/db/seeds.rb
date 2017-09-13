@@ -3300,3 +3300,11 @@ restaurants = restaurants = [
             "distance": 2993.179118266
         }
     ]
+
+restaurants.each do |restaurant|
+  Restaurant.create({name:restaurant[:"name"],
+    address:restaurant[:"location"][:"display_address"].join("/n"),
+     image_url:restaurant[:"image_url"], rating:restaurant[:"rating"],
+     latitude:restaurant[:"coordinates"][:"latitude"],
+     longitude:restaurant[:"coordinates"][:"longitude"]})
+end
