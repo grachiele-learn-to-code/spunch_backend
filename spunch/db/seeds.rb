@@ -8,6 +8,7 @@ require 'json'
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
 
+
 businesses = [
         {
             "id": "elite-event-yelps-pizza-party-at-your-house-hayward",
