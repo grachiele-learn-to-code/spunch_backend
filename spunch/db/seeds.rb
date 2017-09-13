@@ -8,7 +8,7 @@ require 'json'
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
 
-restaurants = [
+businesses = [
         {
             "id": "elite-event-yelps-pizza-party-at-your-house-hayward",
             "name": "Elite Event: Yelp's Pizza Party -- At Your House!",
@@ -3303,10 +3303,15 @@ restaurants = [
         }
     ]
 
-restaurants.each do |restaurant|
-  Restaurant.create({name:restaurant[:"name"],
+businesses.each do |restaurant|
+  Restaurant.create({
+    name:restaurant[:"name"],
     address:restaurant[:"location"][:"display_address"].join("/n"),
-     image_url:restaurant[:"image_url"], rating:restaurant[:"rating"],
-     latitude:restaurant[:"coordinates"][:"latitude"],
-     longitude:restaurant[:"coordinates"][:"longitude"]})
+    zipcode:restaurant[:"location"][:"zip_code"],
+    image:restaurant[:"image_url"], rating:restaurant[:"rating"],
+    latitude:restaurant[:"coordinates"][:"latitude"],
+    longitude:restaurant[:"coordinates"][:"longitude"],
+    phone:restaurant[:"display_phone"],
+    url:restaurant[:"url"],
+    rating:restaurant[:"rating"]})
 end
