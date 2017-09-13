@@ -5,7 +5,8 @@ class CreateTableRestaurant < ActiveRecord::Migration[5.1]
       t.string :address
       t.string :image
       t.integer :rating
-      t.float :coordinates
+      t.float :longitude
+      t.float :latitude
       t.integer :zipcode
       t.string :url
       t.string :phone
