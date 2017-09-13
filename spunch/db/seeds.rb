@@ -3308,7 +3308,7 @@ businesses.each do |restaurant|
     name:restaurant[:"name"],
     address:restaurant[:"location"][:"display_address"].join("/n"),
     zipcode:restaurant[:"location"][:"zip_code"],
-    image:restaurant[:"image_url"], rating:restaurant[:"rating"],
+    image:restaurant[:"image_url"],
     latitude:restaurant[:"coordinates"][:"latitude"],
     longitude:restaurant[:"coordinates"][:"longitude"],
     phone:restaurant[:"display_phone"],
