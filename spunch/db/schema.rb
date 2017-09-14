@@ -27,10 +27,4 @@ ActiveRecord::Schema.define(version: 20170913171348) do
     t.string "phone"
   end
 
-  create_table "searches", force: :cascade do |t|
-    t.string "body"
-    t.datetime "created_at", null: false
-    t.datetime "updated_at", null: false
-  end
-
 end
