@@ -34,7 +34,7 @@ businesses = [
                 "address2": "",
                 "address3": "",
                 "city": "Hayward",
-                "zip_code": "94544",
+                "zip_code": "94545",
                 "country": "US",
                 "state": "CA",
                 "display_address": [
@@ -79,7 +79,7 @@ businesses = [
                 "address2": "",
                 "address3": "",
                 "city": "Hayward",
-                "zip_code": "94544",
+                "zip_code": "94545",
                 "country": "US",
                 "state": "CA",
                 "display_address": [
@@ -118,7 +118,7 @@ businesses = [
                 "address2": "",
                 "address3": "",
                 "city": "Hayward",
-                "zip_code": "94544",
+                "zip_code": "94545",
                 "country": "US",
                 "state": "CA",
                 "display_address": [
@@ -165,7 +165,7 @@ businesses = [
                 "address2": "",
                 "address3": "",
                 "city": "Hayward",
-                "zip_code": "94541",
+                "zip_code": "94545",
                 "country": "US",
                 "state": "CA",
                 "display_address": [
@@ -257,7 +257,7 @@ businesses = [
                 "address2": "",
                 "address3": "",
                 "city": "Hayward",
-                "zip_code": "94541",
+                "zip_code": "94545",
                 "country": "US",
                 "state": "CA",
                 "display_address": [
@@ -304,7 +304,7 @@ businesses = [
                 "address2": "",
                 "address3": "",
                 "city": "Hayward",
-                "zip_code": "94541",
+                "zip_code": "94545",
                 "country": "US",
                 "state": "CA",
                 "display_address": [
@@ -434,7 +434,7 @@ businesses = [
                 "address2": "",
                 "address3": "",
                 "city": "Hayward",
-                "zip_code": "94541",
+                "zip_code": "94545",
                 "country": "US",
                 "state": "CA",
                 "display_address": [
@@ -475,7 +475,7 @@ businesses = [
                 "address2": "",
                 "address3": "",
                 "city": "Hayward",
-                "zip_code": "94544",
+                "zip_code": "94545",
                 "country": "US",
                 "state": "CA",
                 "display_address": [
@@ -515,7 +515,7 @@ businesses = [
                 "address2": "",
                 "address3": "",
                 "city": "Hayward",
-                "zip_code": "94546",
+                "zip_code": "94545",
                 "country": "US",
                 "state": "CA",
                 "display_address": [
@@ -599,7 +599,7 @@ businesses = [
                 "address2": "",
                 "address3": "",
                 "city": "Hayward",
-                "zip_code": "94544",
+                "zip_code": "94545",
                 "country": "US",
                 "state": "CA",
                 "display_address": [
@@ -646,7 +646,7 @@ businesses = [
                 "address2": "",
                 "address3": "",
                 "city": "Hayward",
-                "zip_code": "94541",
+                "zip_code": "94545",
                 "country": "US",
                 "state": "CA",
                 "display_address": [
@@ -690,7 +690,7 @@ businesses = [
                 "address2": "",
                 "address3": "",
                 "city": "Hayward",
-                "zip_code": "94544",
+                "zip_code": "94545",
                 "country": "US",
                 "state": "CA",
                 "display_address": [
@@ -731,7 +731,7 @@ businesses = [
                 "address2": "",
                 "address3": "",
                 "city": "Hayward",
-                "zip_code": "94541",
+                "zip_code": "94545",
                 "country": "US",
                 "state": "CA",
                 "display_address": [
@@ -778,7 +778,7 @@ businesses = [
                 "address2": "",
                 "address3": "",
                 "city": "Hayward",
-                "zip_code": "94541",
+                "zip_code": "94545",
                 "country": "US",
                 "state": "CA",
                 "display_address": [
@@ -863,7 +863,7 @@ businesses = [
                 "address2": "",
                 "address3": "",
                 "city": "Hayward",
-                "zip_code": "94541",
+                "zip_code": "94545",
                 "country": "US",
                 "state": "CA",
                 "display_address": [
@@ -904,7 +904,7 @@ businesses = [
                 "address2": "",
                 "address3": "",
                 "city": "Bronx",
-                "zip_code": "10458",
+                "zip_code": "10465",
                 "country": "US",
                 "state": "NY",
                 "display_address": [
@@ -949,7 +949,7 @@ businesses = [
                 "address2": "",
                 "address3": "",
                 "city": "Bronx",
-                "zip_code": "10458",
+                "zip_code": "10465",
                 "country": "US",
                 "state": "NY",
                 "display_address": [
@@ -990,7 +990,7 @@ businesses = [
                 "address2": "",
                 "address3": "",
                 "city": "Bronx",
-                "zip_code": "10461",
+                "zip_code": "10465",
                 "country": "US",
                 "state": "NY",
                 "display_address": [
@@ -1031,7 +1031,7 @@ businesses = [
                 "address2": "",
                 "address3": "",
                 "city": "Bronx",
-                "zip_code": "10458",
+                "zip_code": "10465",
                 "country": "US",
                 "state": "NY",
                 "display_address": [
@@ -1068,7 +1068,7 @@ businesses = [
                 "address2": "",
                 "address3": "",
                 "city": "Bronx",
-                "zip_code": "10462",
+                "zip_code": "10465",
                 "country": "US",
                 "state": "NY",
                 "display_address": [
@@ -1113,7 +1113,7 @@ businesses = [
                 "address2": "",
                 "address3": "",
                 "city": "Bronx",
-                "zip_code": "10458",
+                "zip_code": "10465",
                 "country": "US",
                 "state": "NY",
                 "display_address": [
@@ -1157,7 +1157,7 @@ businesses = [
                 "address2": "",
                 "address3": "",
                 "city": "Bronx",
-                "zip_code": "10462",
+                "zip_code": "10465",
                 "country": "US",
                 "state": "NY",
                 "display_address": [
@@ -1198,7 +1198,7 @@ businesses = [
                 "address2": "",
                 "address3": "",
                 "city": "Bronx",
-                "zip_code": "10458",
+                "zip_code": "10465",
                 "country": "US",
                 "state": "NY",
                 "display_address": [
@@ -1238,7 +1238,7 @@ businesses = [
                 "address2": "",
                 "address3": "",
                 "city": "Bronx",
-                "zip_code": "10461",
+                "zip_code": "10465",
                 "country": "US",
                 "state": "NY",
                 "display_address": [
@@ -1275,7 +1275,7 @@ businesses = [
                 "address2": "",
                 "address3": "",
                 "city": "Bronx",
-                "zip_code": "10458",
+                "zip_code": "10465",
                 "country": "US",
                 "state": "NY",
                 "display_address": [
@@ -1322,7 +1322,7 @@ businesses = [
                 "address2": "",
                 "address3": "",
                 "city": "Bronx",
-                "zip_code": "10463",
+                "zip_code": "10465",
                 "country": "US",
                 "state": "NY",
                 "display_address": [
@@ -1363,7 +1363,7 @@ businesses = [
                 "address2": "",
                 "address3": "",
                 "city": "Bronx",
-                "zip_code": "10458",
+                "zip_code": "10465",
                 "country": "US",
                 "state": "NY",
                 "display_address": [
@@ -1408,7 +1408,7 @@ businesses = [
                 "address2": "",
                 "address3": "",
                 "city": "Bronx",
-                "zip_code": "10461",
+                "zip_code": "10465",
                 "country": "US",
                 "state": "NY",
                 "display_address": [
@@ -1449,7 +1449,7 @@ businesses = [
                 "address2": "",
                 "address3": "",
                 "city": "Bronx",
-                "zip_code": "10458",
+                "zip_code": "10465",
                 "country": "US",
                 "state": "NY",
                 "display_address": [
@@ -1486,7 +1486,7 @@ businesses = [
                 "address2": "",
                 "address3": "",
                 "city": "Bronx",
-                "zip_code": "10458",
+                "zip_code": "10465",
                 "country": "US",
                 "state": "NY",
                 "display_address": [
@@ -1530,7 +1530,7 @@ businesses = [
                 "address2": "",
                 "address3": "",
                 "city": "Bronx",
-                "zip_code": "10461",
+                "zip_code": "10465",
                 "country": "US",
                 "state": "NY",
                 "display_address": [
@@ -1567,7 +1567,7 @@ businesses = [
                 "address2": "",
                 "address3": "",
                 "city": "Bronx",
-                "zip_code": "10462",
+                "zip_code": "10465",
                 "country": "US",
                 "state": "NY",
                 "display_address": [
@@ -1604,7 +1604,7 @@ businesses = [
                 "address2": "",
                 "address3": "",
                 "city": "Bronx",
-                "zip_code": "10458",
+                "zip_code": "10465",
                 "country": "US",
                 "state": "NY",
                 "display_address": [
@@ -1641,7 +1641,7 @@ businesses = [
                 "address2": "",
                 "address3": "",
                 "city": "Bronx",
-                "zip_code": "10461",
+                "zip_code": "10465",
                 "country": "US",
                 "state": "NY",
                 "display_address": [
@@ -1678,7 +1678,7 @@ businesses = [
                 "address2": "Ste 5",
                 "address3": "",
                 "city": "Bronx",
-                "zip_code": "10458",
+                "zip_code": "10465",
                 "country": "US",
                 "state": "NY",
                 "display_address": [
@@ -1752,7 +1752,7 @@ businesses = [
                 "address2": "",
                 "address3": "",
                 "city": "New York",
-                "zip_code": "10003",
+                "zip_code": "10004",
                 "country": "US",
                 "state": "NY",
                 "display_address": [
@@ -1947,7 +1947,7 @@ businesses = [
                 "address2": "",
                 "address3": "",
                 "city": "New York",
-                "zip_code": "10002",
+                "zip_code": "10004",
                 "country": "US",
                 "state": "NY",
                 "display_address": [
@@ -1988,7 +1988,7 @@ businesses = [
                 "address2": "",
                 "address3": "",
                 "city": "New York",
-                "zip_code": "10009",
+                "zip_code": "10005",
                 "country": "US",
                 "state": "NY",
                 "display_address": [
@@ -2070,7 +2070,7 @@ businesses = [
                 "address2": "",
                 "address3": "",
                 "city": "New York",
-                "zip_code": "10011",
+                "zip_code": "10005",
                 "country": "US",
                 "state": "NY",
                 "display_address": [
@@ -2107,7 +2107,7 @@ businesses = [
                 "address2": "",
                 "address3": "",
                 "city": "New York",
-                "zip_code": "10003",
+                "zip_code": "10004",
                 "country": "US",
                 "state": "NY",
                 "display_address": [
@@ -2151,7 +2151,7 @@ businesses = [
                 "address2": "",
                 "address3": "",
                 "city": "New York",
-                "zip_code": "10038",
+                "zip_code": "10005",
                 "country": "US",
                 "state": "NY",
                 "display_address": [
@@ -2232,7 +2232,7 @@ businesses = [
                 "address2": "",
                 "address3": "",
                 "city": "New York",
-                "zip_code": "10011",
+                "zip_code": "10005",
                 "country": "US",
                 "state": "NY",
                 "display_address": [
@@ -2269,7 +2269,7 @@ businesses = [
                 "address2": "",
                 "address3": "",
                 "city": "New York",
-                "zip_code": "10009",
+                "zip_code": "10004",
                 "country": "US",
                 "state": "NY",
                 "display_address": [
@@ -2316,7 +2316,7 @@ businesses = [
                 "address2": "",
                 "address3": "",
                 "city": "New York",
-                "zip_code": "10003",
+                "zip_code": "10004",
                 "country": "US",
                 "state": "NY",
                 "display_address": [
@@ -2360,7 +2360,7 @@ businesses = [
                 "address2": "",
                 "address3": "",
                 "city": "New York",
-                "zip_code": "10012",
+                "zip_code": "1005",
                 "country": "US",
                 "state": "NY",
                 "display_address": [
@@ -2401,7 +2401,7 @@ businesses = [
                 "address2": "",
                 "address3": "",
                 "city": "New York",
-                "zip_code": "10009",
+                "zip_code": "10004",
                 "country": "US",
                 "state": "NY",
                 "display_address": [
@@ -2442,7 +2442,7 @@ businesses = [
                 "address2": "",
                 "address3": "",
                 "city": "New York",
-                "zip_code": "10013",
+                "zip_code": "1005",
                 "country": "US",
                 "state": "NY",
                 "display_address": [
@@ -2487,7 +2487,7 @@ businesses = [
                 "address2": "",
                 "address3": "",
                 "city": "New York",
-                "zip_code": "10013",
+                "zip_code": "10005",
                 "country": "US",
                 "state": "NY",
                 "display_address": [
@@ -2847,7 +2847,7 @@ businesses = [
                 "address2": "",
                 "address3": "",
                 "city": "Port Jefferson",
-                "zip_code": "11777",
+                "zip_code": "11733",
                 "country": "US",
                 "state": "NY",
                 "display_address": [
@@ -3006,7 +3006,7 @@ businesses = [
                 "address2": "",
                 "address3": "",
                 "city": "Port Jefferson",
-                "zip_code": "11777",
+                "zip_code": "11733",
                 "country": "US",
                 "state": "NY",
                 "display_address": [
@@ -3128,7 +3128,7 @@ businesses = [
                 "address2": "",
                 "address3": "",
                 "city": "Stony Brook",
-                "zip_code": "11790",
+                "zip_code": "11733",
                 "country": "US",
                 "state": "NY",
                 "display_address": [
@@ -3173,7 +3173,7 @@ businesses = [
                 "address2": "",
                 "address3": "",
                 "city": "Port Jefferson",
-                "zip_code": "11777",
+                "zip_code": "11733",
                 "country": "US",
                 "state": "NY",
                 "display_address": [
@@ -3253,7 +3253,7 @@ businesses = [
                 "address2": "",
                 "address3": "",
                 "city": "Stony Brook",
-                "zip_code": "11790",
+                "zip_code": "11733",
                 "country": "US",
                 "state": "NY",
                 "display_address": [
