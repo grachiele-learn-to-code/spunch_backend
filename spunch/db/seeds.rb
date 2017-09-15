@@ -3307,7 +3307,7 @@ businesses = [
 businesses.each do |restaurant|
   Restaurant.create({
     name:restaurant[:"name"],
-    address:restaurant[:"location"][:"display_address"].join("/n"),
+    address:restaurant[:"location"][:"display_address"].join("\n"),
     zipcode:restaurant[:"location"][:"zip_code"],
     image:restaurant[:"image_url"],
     latitude:restaurant[:"coordinates"][:"latitude"],
